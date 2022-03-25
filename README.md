@@ -18,7 +18,7 @@
 
 # [Graphics Self Study](https://github.com/loshjawrence/GraphicsSelfStudy)<br />
 Where I learn, implement, and experiment with modern graphics techniques in OpenGL.<br />
-Cascaded Shadows,Shadow Mapping(PCF, VSM, ESM, EVSM),Horizon based SSAO, HDR, Tonemapping, Bloom, Color Grading, PBR<br />
+Forward/Deferred paths,Cascaded Shadows,Shadow Mapping(PCF, VSM, ESM, EVSM),Horizon based SSAO, HDR, Tonemapping, Bloom, Color Grading, PBR<br />
 ![](img/renderer.png)
 ![](img/pbrCircusPlastic.png)
 ![](img/pbrNewportCopper.png)
