@@ -17,10 +17,9 @@
 
 
 # [Graphics Self Study](https://github.com/loshjawrence/GraphicsSelfStudy)<br />
-Where I learn, implement, and experiment with modern graphics techniques.<br />
-**PRB with IBL**<br />
-![](img/pbrNewportCopper.png)
-![](img/pbrCircusPlastic.png)
+Where I learn, implement, and experiment with modern graphics techniques in OpenGL.<br />
+**Cascaded Shadows,Shadow Mapping(PCF, VSM, ESM, EVSM),Horizon based SSAO, HDR, Tonemapping, Bloom, Color Grading, PBR **<br />
+![](img/renderer.png)
 
 
 # [Cloth Simulation](https://github.com/loshjawrence/ClothSim)<br />
